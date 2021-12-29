@@ -1,2 +1,2 @@
 # test
-Test directory for testing Git and Github commands
+Test repository for testing Git and Github commands
